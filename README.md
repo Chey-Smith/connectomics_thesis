@@ -26,4 +26,4 @@ All files are intended to be run in the order they are listed above.
 
 * The **network.py**, **train.py**, and **reload.py** were adapted from code provided by Dr. Tabinda Sarwar from the RMIT School of Computing Technologies. The original code can be found at this [Github repository](https://github.com/sarwart/mapping_SC_FC).
 
-We are grateful to both Lars Smolders and Dr. Tabinda Sarwar for their contributions to this work.
+I am grateful to both Lars Smolders and Dr. Tabinda Sarwar for their contributions to this work.
